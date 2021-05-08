@@ -225,7 +225,7 @@ lm_fit
 
     ## parsnip model object
     ## 
-    ## Fit time:  30ms 
+    ## Fit time:  31ms 
     ## 
     ## Call:
     ## stats::lm(formula = weekly_attendance ~ ., data = data)
@@ -279,7 +279,7 @@ rf_fit
 
     ## parsnip model object
     ## 
-    ## Fit time:  2.7s 
+    ## Fit time:  2.5s 
     ## Ranger result
     ## 
     ## Call:
